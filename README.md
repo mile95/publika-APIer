@@ -5,7 +5,7 @@ Sammanställning av publika API:er. Som [public-apis](https://github.com/public-
 
 ## Bidra?
 
-Öppna upp en PR med en uppdatering av [README.md](https://github.com/mile95/publika-APIer/README.md)
+Öppna upp en PR med en uppdatering av [README.md](https://github.com/mile95/publika-APIer/blob/main/README.md)
 
 
 ## API:er
