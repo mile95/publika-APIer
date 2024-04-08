@@ -8,7 +8,7 @@ Sammanställning av publika API:er. Som [public-apis](https://github.com/public-
 Öppna upp en PR med en uppdatering av [README.md](https://github.com/mile95/publika-APIer/blob/main/README.md)
 
 
-## API:er
+## REST API:er
 
 
 | API                                                                                                                                              | Beskrivning                                          |
