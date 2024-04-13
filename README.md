@@ -1,5 +1,7 @@
 # Publika API:er
 
+__Fick tips om [denna samlingen av API:er](https://www.dataportal.se/datasets?p=1&q=&s=2&t=20&f=&rt=esterms_IndependentDataService%24esterms_ServedByDataService&c=false) så pausar uppdaterandet här ett tag.__
+
 Sammanställning av publika API:er. Som [public-apis](https://github.com/public-apis/public-apis) men svensk fokuserat. 
 
 
